@@ -1,3 +1,10 @@
+<!-- embryo-brand -->
+# Embryo Quick DB
+
+**Embryo Quick DB** is Embryo-Zero's fork of [duckdb](https://github.com/duckdb/duckdb), made by Embryo Zero Backyard Data Center Corporation. Our changes are on the `embryo` branch; see [EMBRYO.md](EMBRYO.md), [LEGAL.md](LEGAL.md) and [CHANGES-EMBRYO.md](CHANGES-EMBRYO.md). The original project's README follows unchanged, with its authors' credits.
+
+---
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://duckdb.org/images/designmanual/DuckDB_inline-lightmode.svg">
